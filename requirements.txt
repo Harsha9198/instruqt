@@ -1,0 +1,5 @@
+pypdf
+streamlit
+openai
+llama-index
+nltk
